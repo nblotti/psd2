@@ -1,0 +1,14 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/db_preference_title" />
+    <PreferenceScreen
+        android:key="android.intent.action.VIEW"
+        android:title="@string/db_newtoken_action"
+        android:summary="@string/db_newtoken_summary">
+        <intent
+            android:action="@string/db_newtoken_action"
+            android:targetClass="ch.nblotti.aggregator.AccountPreferencesActivity"
+            android:targetPackage="ch.nblotti.aggregator" />
+    </PreferenceScreen>
+</PreferenceScreen>
+
+

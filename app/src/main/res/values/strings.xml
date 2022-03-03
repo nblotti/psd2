@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Psd2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_bank">Banks</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="db_module_name">psd2.deutschebank.nblotti.ch</string>
+    <string name="db_auth_token_type">https://psd2.deutschebank.nblotti.ch/</string>
+    <string name="db_account_type"> ch.nblotti.db.deutschebankauthenticator</string>
+    <string name="db_bank_name">Deutsche Bank</string>
+    <string name="db_preference_title">Deutsche Bank Preferences</string>
+    <string name="db_newtoken_summary">Manage server preferences</string>
+    <string name="db_newtoken_action">Server preferences</string>
+
+    <string name="pictet_bank_name">Pictet</string>
+
+
+    <string name="confirm_connect">Are you sure you want to connect to %s ?</string>
+    <string name="confirm_disconnect">Are you sure you want to disconnect from %s ?\n\n(Requires restart)</string>
+    <string name="confirm_restart">When do you want to restart ?</string>
+    <string name="restart_now">Now</string>
+    <string name="restart_later">Later</string>
+    restart_later
+</resources>

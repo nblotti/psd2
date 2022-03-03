@@ -1,0 +1,20 @@
+<resources>
+
+
+    <string name="db_bank_id">DeutscheBank</string>
+    <string name="db_bank_name">Deutsche Bank</string>
+    <string name="db_auth_token_type">https://psd2.deutschebank.nblotti.ch/</string>
+    <string name="db_account_type"> ch.nblotti.db.deutschebankauthenticator</string>
+    <string name="db_preference_title">Deutsche Bank Preferences</string>
+    <string name="db_newtoken_summary">Manage server preferences</string>
+    <string name="db_newtoken_action">Server preferences</string>
+    <string name="db_force_token_refresh">Force token refresh</string>
+    <string name="db_force_token_refresh_description">Force a token refresh before every call to API</string>
+
+    <string name="am_account_password">asdkfasdhg3448595sadgn,asgnastr349</string>
+    <string name="am_accountsuccessfullycreated">Account successfully created</string>
+
+    <string name="deutscheBankAuthBaseUrl">https://simulator-api.db.com/gw/oidc/authorize?response_type=%s&amp;client_id=%s&amp;redirect_uri=%s&amp;scope=%s&amp;state=%s</string>
+
+
+</resources>
